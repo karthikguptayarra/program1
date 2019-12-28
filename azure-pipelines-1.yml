@@ -16,4 +16,4 @@ steps:
     script: |
       javac AddTwoNumber.java
       
-      java AddTwoNumbers
+      java AddTwoNumber
